@@ -1,0 +1,2 @@
+Há alguns dias estou refazendo o curso básico de git e Github e criando meu primeiro repositório para o desafio do Bootcamp da Dio. O curso em questão traz comandos úteis ao dia a dia do programador. 
+Para começar vamos falar um pouco sobre o git. Básicamente, o git é https://github.com/soraia-analista/Desafio-Github-DIO--Primeiro-Projeto-.git
